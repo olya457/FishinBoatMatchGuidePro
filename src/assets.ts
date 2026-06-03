@@ -1,0 +1,46 @@
+export const images = {
+  splashHero: require('./assets/splash-hero.png'),
+  appIcon: require('./assets/app-icon.png'),
+  boatClock: require('./assets/boat-clock.png'),
+  anglerWelcome: require('./assets/angler-welcome.png'),
+  anglerWave: require('./assets/angler-wave.png'),
+  anglerBoat: require('./assets/angler-boat.png'),
+  anglerFish: require('./assets/angler-fish.png'),
+  anglerInvite: require('./assets/angler-invite.png'),
+};
+
+export const boatImages = {
+  trackerProTeam175Txw: require('./assets/TrackerProTeam175TXW.png'),
+  rangerRt188: require('./assets/RangerRT188.png'),
+  lundRebelXl1650: require('./assets/LundRebelXL1650.png'),
+  alumacraftClassic165Cs: require('./assets/AlumacraftClassic165CS.png'),
+  crestliner1700Vision: require('./assets/Crestliner1700Vision.png'),
+  carolinaSkiff21Ls: require('./assets/CarolinaSkiff21LS.png'),
+  pathfinder2200Trs: require('./assets/Pathfinder2200TRS.png'),
+  seaHuntUltra229: require('./assets/SeaHuntUltra229.png'),
+  sportsmanMasters227: require('./assets/SportsmanMasters227.png'),
+  keyWest230BayReef: require('./assets/KeyWest230BayReef.png'),
+  bostonWhaler280Outrage: require('./assets/BostonWhaler280Outrage.png'),
+  gradyWhiteCanyon306: require('./assets/GradyWhiteCanyon306.png'),
+  pursuitOs325: require('./assets/PursuitOS325.png'),
+  regulator31: require('./assets/Regulator31.png'),
+  viking38Billfish: require('./assets/Viking38Billfish.png'),
+};
+
+export const locationImages = {
+  lakeForkReservoir: require('./assets/LakeForkReservoir.png'),
+  lakeOkeechobee: require('./assets/LakeOkeechobee.png'),
+  lakeGuntersville: require('./assets/LakeGuntersville.png'),
+  milleLacsLake: require('./assets/MilleLacsLake.png'),
+  lakeStClair: require('./assets/LakeStClair.png'),
+  tampaBay: require('./assets/TampaBay.png'),
+  chesapeakeBay: require('./assets/ChesapeakeBay.png'),
+  lagunaMadre: require('./assets/LagunaMadre.png'),
+  mosquitoLagoon: require('./assets/MosquitoLagoon.png'),
+  galvestonBay: require('./assets/GalvestonBay.png'),
+  floridaKeysOffshoreGrounds: require('./assets/FloridaKeysOffshoreGrounds.png'),
+  gulfOfMexicoDeepWaters: require('./assets/GulfofMexicoDeepWaters.png'),
+  outerBanksOffshoreZone: require('./assets/OuterBanksOffshoreZone.png'),
+  konaCoastFishingGrounds: require('./assets/KonaCoastFishingGrounds.png'),
+  veniceOffshoreFishingArea: require('./assets/VeniceOffshoreFishingArea.png'),
+};
