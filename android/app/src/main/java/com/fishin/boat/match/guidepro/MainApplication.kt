@@ -1,4 +1,4 @@
-package com.fishinboatmatchguidepro
+package com.fishin.boat.match.guidepro
 
 import android.app.Application
 import com.facebook.react.PackageList
