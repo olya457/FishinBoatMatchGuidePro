@@ -1,4 +1,4 @@
-package com.fishingboathandbook
+package com.boatwisefishing
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
