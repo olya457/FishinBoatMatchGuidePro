@@ -1,4 +1,4 @@
-package com.fishin.boat.match.guidepro
+package com.fishingboathandbook
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

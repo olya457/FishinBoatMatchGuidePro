@@ -31,7 +31,7 @@ export function SplashScreen({navigation}: Props): React.JSX.Element {
       <View style={styles.sparkSmall} />
       <View style={styles.center}>
         <Image source={images.splashHero} style={styles.hero} />
-        <Text style={styles.title}>Fishin Boat</Text>
+        <Text style={styles.title}>Fishing Boat Handbook</Text>
         <Text style={styles.subtitle}>FIND YOUR PERFECT FISHING BOAT</Text>
       </View>
       <View style={styles.dots}>
